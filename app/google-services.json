@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "1005738009871",
+    "project_id": "labor7-ce2fa"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005738009871:android:ee4304852f87f895",
+        "android_client_info": {
+          "package_name": "com.example.mate.labor7"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN9EdKJT5odK36st9acApIz3GkiW8-V94"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-78157084-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
